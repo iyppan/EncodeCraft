@@ -1,0 +1,6 @@
+{
+  "source": "C:\\Media\\test-video.mp4",
+  "format": "MP4",
+  "output_dir": "C:\\Media\\Exports",
+  "preset": "Balanced"
+}
